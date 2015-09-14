@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_image_one" android:orderInCategory="101" android:title="IM1"></item>
+    <item android:id="@+id/menu_image_two" android:orderInCategory="102" android:title="IM2"></item>
+    
+
+</menu>
+<!-- From: file:/C:/Android/Library/android-education-project/Sample7Menu1/app/src/main/res/menu/image_view_menu.xml -->
